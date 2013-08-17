@@ -21,7 +21,7 @@
 
 
 #define N_IDX 0
-#define DISP_H 800
+#define DISP_H 801
 #define DISP_W 1000
 
 #define P_AREA  s[0]
