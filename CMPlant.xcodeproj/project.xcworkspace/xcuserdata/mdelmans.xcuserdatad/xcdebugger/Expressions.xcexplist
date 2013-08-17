@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CMPlant::Divide(int):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cNodePos - centro">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::InsertNodeToCell(int, int, float):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellNodes[2][0]">
+            </PersistentString>
+            <PersistentString
+               value = "cellNodes[1][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::Step():CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "wallProperties[cNode][i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::InsertNewNode(int, int, cl_float4):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "1-lProp">
+            </PersistentString>
+            <PersistentString
+               value = "wallProperties[1][1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "plant">
+            </PersistentString>
+            <PersistentString
+               value = "plant.nodesPos[24]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::Divide2(int):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellNodes[1][0]">
+            </PersistentString>
+            <PersistentString
+               value = "mArea">
+            </PersistentString>
+            <PersistentString
+               value = "nodesPos[6]">
+            </PersistentString>
+            <PersistentString
+               value = "nodeIdx1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::CreateOneCell(int, float):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "wallProperties[i][1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::CalculateForces():CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nodesForce[1]">
+            </PersistentString>
+            <PersistentString
+               value = "nodesForce[60]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::ReadCellsFromFile(char*, int, int):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pointPos.y">
+            </PersistentString>
+            <PersistentString
+               value = "nodesPos[i]">
+            </PersistentString>
+            <PersistentString
+               value = "pointPos.x">
+            </PersistentString>
+            <PersistentString
+               value = "usedWall[242]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::Step(float):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nodesForce[30]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::NextInCell(int, int):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellNodes[1][2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::InsertNewWall(int, int, int, float, float):CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellNodes[3][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::CLCalculateForces():CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this.nodesForce[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CMPlant::GLDisplayForces():CMPlant.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nodesForce[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

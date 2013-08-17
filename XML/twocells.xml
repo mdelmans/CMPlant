@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cellsetdata>
+  <metadata>
+    <image name="onecell.png" channel="any" width="607" height="501" />
+    <segmentation type="global-automatic" threshold="n/a" />
+  </metadata>
+  <cells count="3">
+    <cell id="0" group="0" truncated="false">
+      <walls>
+        <wall id="0" />
+        <wall id="1" />
+        <wall id="2" />
+      </walls>
+    </cell>
+    <cell id="1" group="0" truncated="false">
+      <walls>
+        <wall id="3" />
+        <wall id="4" />
+        <wall id="0" />
+      </walls>
+    </cell>
+    <cell id="2" group="0" truncated="false">
+      <walls>
+        <wall id="5" />
+        <wall id="1" />
+        <wall id="4" />
+      </walls>
+    </cell>
+  </cells>
+  <walls count="6">
+    <wall id="0" edgewall="false" group="0">
+      <points>
+        <point x="157" y="360" />
+        <point x="370" y="356" />
+      </points>
+    </wall>
+    <wall id="1" edgewall="false" group="0">
+      <points>
+        <point x="370" y="356" />
+        <point x="552" y="362" />
+      </points>
+    </wall>
+    <wall id="2" edgewall="false" group="0">
+      <points>
+        <point x="552" y="362" />
+        <point x="552" y="440" />
+        <point x="534" y="445" />
+        <point x="158" y="437" />
+        <point x="157" y="360" />
+      </points>
+    </wall>
+    <wall id="3" edgewall="false" group="0">
+      <points>
+        <point x="157" y="360" />
+        <point x="143" y="69" />
+        <point x="377" y="66" />
+      </points>
+    </wall>
+    <wall id="4" edgewall="false" group="0">
+      <points>
+        <point x="377" y="66" />
+        <point x="370" y="356" />
+      </points>
+    </wall>
+    <wall id="5" edgewall="false" group="0">
+      <points>
+        <point x="377" y="66" />
+        <point x="555" y="63" />
+        <point x="552" y="362" />
+      </points>
+    </wall>
+  </walls>
+  <groups>
+    <cellgroups>
+      <group id="0" name="unassigned" />
+    </cellgroups>
+    <wallgroups>
+      <group id="0" name="unassigned" />
+    </wallgroups>
+  </groups>
+</cellsetdata>
